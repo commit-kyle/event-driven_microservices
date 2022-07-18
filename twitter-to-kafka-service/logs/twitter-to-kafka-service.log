@@ -1,0 +1,143 @@
+2022-07-17 12:17:12 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 12817 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 12:17:12 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 12:17:13 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.96 seconds (JVM running for 2.077)
+2022-07-17 12:17:13 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - TwitterToKafkaService -> Initialized
+2022-07-17 12:17:13 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 12:17:40 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 12959 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 12:17:40 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 12:17:41 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.972 seconds (JVM running for 1.74)
+2022-07-17 12:17:41 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - TwitterToKafkaService -> Initialized
+2022-07-17 12:17:41 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 12:18:26 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 13125 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 12:18:26 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 12:18:27 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.834 seconds (JVM running for 1.557)
+2022-07-17 12:18:27 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - TwitterToKafkaService -> Initialized
+2022-07-17 12:18:27 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Ljava.lang.Object;@51d143a1
+2022-07-17 12:18:58 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 13270 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 12:18:58 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 12:18:59 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.876 seconds (JVM running for 1.57)
+2022-07-17 12:18:59 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - TwitterToKafkaService -> Initialized
+2022-07-17 12:18:59 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 12:23:33 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 13988 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 12:23:33 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 12:23:33 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.858 seconds (JVM running for 1.515)
+2022-07-17 12:23:33 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - null
+2022-07-17 12:23:33 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 12:23:55 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 14117 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 12:23:55 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 12:23:55 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.9 seconds (JVM running for 1.691)
+2022-07-17 12:23:55 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - null
+2022-07-17 12:23:55 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 12:24:30 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 14250 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 12:24:30 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 12:24:30 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.868 seconds (JVM running for 1.486)
+2022-07-17 12:24:30 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Welcome! The Event-Driven Microservices application has been initialized...
+2022-07-17 12:24:30 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 12:25:04 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 14407 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 12:25:04 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 12:25:05 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.866 seconds (JVM running for 1.563)
+2022-07-17 12:25:05 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - ---> Welcome! The Event-Driven Microservices application has been initialized...
+2022-07-17 12:25:05 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 15:32:22 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 47271 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 15:32:22 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 15:32:23 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.867 seconds (JVM running for 1.625)
+2022-07-17 15:32:23 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - ---> Welcome! The Event-Driven Microservices application has been initialized...
+2022-07-17 15:32:23 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 15:32:23 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-07-17 15:32:23 [main] INFO  c.m.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 15:32:25 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2022-07-17 15:32:25 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 10000 milliseconds
+2022-07-17 15:32:35 [Twitter Stream consumer /  [1][Waiting for 10000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-07-17 15:32:36 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 401:Authentication credentials (https://dev.twitter.com/pages/auth) were missing or incorrect. Ensure that you have set valid consumer key/secret, access token/secret, and the system clock is in sync.
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 401 Unauthorized</title>
+</head>
+<body>
+<h2>HTTP ERROR: 401</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    Unauthorized</pre>
+</body>
+</html>
+
+2022-07-17 15:32:36 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 20000 milliseconds
+2022-07-17 15:32:42 [SpringApplicationShutdownHook] INFO  c.m.t.t.k.s.r.i.TwitterKafkaStreamRunner - ---> Closing Twitter Stream!
+2022-07-17 15:40:04 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 48735 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 15:40:04 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 15:40:04 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.831 seconds (JVM running for 1.443)
+2022-07-17 15:40:04 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - ---> Welcome! The Event-Driven Microservices application has been initialized...
+2022-07-17 15:40:04 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 15:40:04 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-07-17 15:40:04 [main] INFO  c.m.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 15:40:06 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 403 
+Please use V2 filtered and sample volume stream as alternatives
+</title>
+</head>
+<body>
+<h2>HTTP ERROR: 403</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    
+Please use V2 filtered and sample volume stream as alternatives
+</pre>
+</body>
+</html>
+
+2022-07-17 15:40:06 [Twitter Stream consumer /  [1][Establishing connection]] WARN  twitter4j.TwitterStreamImpl - This account is not in required role. 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 403 
+Please use V2 filtered and sample volume stream as alternatives
+</title>
+</head>
+<body>
+<h2>HTTP ERROR: 403</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    
+Please use V2 filtered and sample volume stream as alternatives
+</pre>
+</body>
+</html>
+
+2022-07-17 15:40:06 [SpringApplicationShutdownHook] INFO  c.m.t.t.k.s.r.i.TwitterKafkaStreamRunner - ---> Closing Twitter Stream!
+2022-07-17 15:40:19 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.12 on kyle with PID 48846 (/home/kyle_buttress/Desktop/Projects/Event-Driven Microservices/twitter-to-kafka-service/target/classes started by kyle_buttress in /home/kyle_buttress/Desktop/Projects/Event-Driven Microservices)
+2022-07-17 15:40:19 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-17 15:40:20 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.97 seconds (JVM running for 1.63)
+2022-07-17 15:40:20 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - ---> Welcome! The Event-Driven Microservices application has been initialized...
+2022-07-17 15:40:20 [main] INFO  c.m.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 15:40:20 [main] INFO  c.m.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-07-17 15:40:20 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-07-17 15:40:21 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 403 
+Please use V2 filtered and sample volume stream as alternatives
+</title>
+</head>
+<body>
+<h2>HTTP ERROR: 403</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    
+Please use V2 filtered and sample volume stream as alternatives
+</pre>
+</body>
+</html>
+
+2022-07-17 15:40:21 [Twitter Stream consumer /  [1][Establishing connection]] WARN  twitter4j.TwitterStreamImpl - This account is not in required role. 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 403 
+Please use V2 filtered and sample volume stream as alternatives
+</title>
+</head>
+<body>
+<h2>HTTP ERROR: 403</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    
+Please use V2 filtered and sample volume stream as alternatives
+</pre>
+</body>
+</html>
+
+2022-07-17 15:40:21 [SpringApplicationShutdownHook] INFO  c.m.t.t.k.s.r.i.TwitterKafkaStreamRunner - ---> Closing Twitter Stream!
